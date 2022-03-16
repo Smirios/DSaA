@@ -17,7 +17,7 @@ int main() {
         cout << arr[i] << ' ';
     }
     cout << endl << index << endl;
-    int* arrtask3;
+    int* arrtask3; // third task
     arrtask3 = new int[n - 1];
     for (int i = 0;i < n - 1;i++) {
         if (i < index - 1) {
@@ -28,7 +28,7 @@ int main() {
     /*for (int i = 0; i < n - 1; i++) {
         cout << arrtask3[i] << ' ';
     }*/
-    int* arrtask2;
+    int* arrtask2; //second task
     arrtask2 = new int[n + 1];
     for (int i = 0;i <= n;i++) {
         if (i <= index) {
