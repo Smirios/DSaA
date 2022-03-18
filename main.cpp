@@ -25,9 +25,7 @@ int main() {
         }
         else { arrtask3[i] = arr[i + 1]; }
     }
-    /*for (int i = 0; i < n - 1; i++) {
-        cout << arrtask3[i] << ' ';
-    }*/
+    arr = arrtask3;
     int* arrtask2; //second task
     arrtask2 = new int[n + 1];
     for (int i = 0;i <= n;i++) {
@@ -36,8 +34,9 @@ int main() {
         }
         else { arrtask2[i] = arr[i - 1]; }
     }
-    cin >> arrtask2[index + 1];
-    /*for (int i = 0; i <= n; i++) {
-        cout << arrtask2[i] << ' ';
-        }*/
+    cin >> arrtask2[index];
+    arr = arrtask2;
+    for (int i = 0; i < n; i++) {
+        cout << arr[i] << ' ';
+        }*
     }
