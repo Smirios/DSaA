@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     int arr[1000];
-    int n = 10;
+    int n = 1000;
     arr[0] = 2;
     for (int i = 1; i < n; i++) {
         if (i % 2) { arr[i] = i - arr[i / 4] * 2; }
