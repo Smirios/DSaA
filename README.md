@@ -19,4 +19,6 @@
 
 -[Задания 8: Линейный список стек и его применение](https://github.com/Smirios/DSaA/tree/8-задание-стек)
 
--[задание 9: Oчередь](https://github.com/Smirios/DSaA/tree/задание-9-очередь)
+-[Задание 9: Oчередь](https://github.com/Smirios/DSaA/tree/задание-9-очередь)
+
+-[Задание 10: AVL древо](https://github.com/Smirios/DSaA/tree/задание-10-AVL-Древо)
