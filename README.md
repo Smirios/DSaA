@@ -24,3 +24,5 @@
 -[Задание 10: AVL древо](https://github.com/Smirios/DSaA/tree/задание-10-AVL-Древо)
 
 -[Задание 11: Хеширование](https://github.com/Smirios/DSaA/tree/задание-11-Хеширование)
+
+-[Задание 12: Внешние структуры данных](https://github.com/Smirios/DSaA/tree/задание-12-файлы-и-из-обработка)
