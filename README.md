@@ -22,3 +22,5 @@
 -[Задание 9: Oчередь](https://github.com/Smirios/DSaA/tree/задание-9-очередь)
 
 -[Задание 10: AVL древо](https://github.com/Smirios/DSaA/tree/задание-10-AVL-Древо)
+
+-[Задание 11: Хеширование](https://github.com/Smirios/DSaA/tree/задание-11-Хеширование)
